@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SnakeGame</string>
+    <string name="snake_play_area">Snake Play Area</string>
+    <string name="start">Start</string>
+    <string name="reset">Reset</string>
+    <string name="new_game">New Game</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="game_over">Game Over</string>
+</resources>
